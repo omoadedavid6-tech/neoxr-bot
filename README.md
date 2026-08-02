@@ -65,25 +65,28 @@ Configuration of this script consists of two files: [config.json](https://github
 
 ```Javascript
 {
-   ""owner": "2348164675952"
-   "owner_name": "blazekvngbot"
-   "database": "data",
-   "limit": 15, // Usage limit (default: 15)
-   "ram_limit": "900mb",
-   "max_upload": 50, // File size limit for premium users (default: 50mb)
-   "max_upload_free": 25, // File size limit for free users (default: 25mb)
-   "cooldown": 3, // Anti-spam hold (default: 3s)
-   "timer": 180000,
-   "timeout": 1800000,
-   "permanent_threshold": 3,
-   "notify_threshold": 4,
-   "banned_threshold": 5,
-   "blocks": ["994", "91", "92"],
-   "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
-   "pairing": {
-      "state": true,  // Set to "true" if you want to use the pairing code dan "false" to use scan qr
-      "number": 6285xxxxxxxx, // Your bot number
-      "code": "NEOXRBOT" // Custom pairing code
+   {
+  "owner": "2348164675952",
+  "owner_name": "blazekvngbot",
+  "database": "data",
+  "limit": 15,
+  "ram_limit": "900mb",
+  "max_upload": 50,
+  "max_upload_free": 25,
+  "cooldown": 3,
+  "timer": 180000,
+  "timeout": 1800000,
+  "permanent_threshold": 3,
+  "notify_threshold": 4,
+  "banned_threshold": 5,
+  "blocks": ["994", "91", "92"],
+  "evaluate_chars": ["=>", "~>", "<", ">", "$"],
+  "pairing": {
+    "state": true,
+    "number": 2348164675952,
+    "code": "BLAZEKVNG"
+  }
+}
    }
 }
 ```
