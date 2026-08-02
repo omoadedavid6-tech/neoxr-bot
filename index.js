@@ -84,7 +84,6 @@ CFonts.say('BLAZEKVNGBOT', {
    colors: ['system']
 })
 
-...
    font: 'tiny',
    align: 'center',
    colors: ['system']
