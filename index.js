@@ -84,15 +84,7 @@ CFonts.say('BLAZEKVNGBOT', {
    colors: ['system']
 })
 
-   font: 'tiny',
-   align: 'center',
-   colors: ['system']
-})
-https://github.com/DavidOmoade/blazekvngbot',
-   colors: ['system'],
-   font: 'console',
-   align: 'center'
-})
+console.log('https://github.com/DavidOmoade/blazekvngbot')
 
 start()
 startAutoClean()
