@@ -78,12 +78,12 @@ if (major < 20) {
    process.exit(1)
 }
 
-CFonts.say('NEOXR BOT', {
+CFonts.say('BLAZEKVNGBOT', {
    font: 'tiny',
    align: 'center',
    colors: ['system']
 })
-CFonts.say('Github : https://github.com/neoxr/neoxr-bot', {
+https://github.com/DavidOmoade/blazekvngbot',
    colors: ['system'],
    font: 'console',
    align: 'center'
