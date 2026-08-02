@@ -82,7 +82,7 @@ Configuration of this script consists of two files: [config.json](https://github
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,  // Set to "true" if you want to use the pairing code dan "false" to use scan qr
-      "number": 6285xxxxxxxx, // Your bot number
+      "number": 2348164675952 // Your bot number
       "code": "NEOXRBOT" // Custom pairing code
    }
 }
