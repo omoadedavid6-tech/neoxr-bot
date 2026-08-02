@@ -83,6 +83,12 @@ CFonts.say('BLAZEKVNGBOT', {
    align: 'center',
    colors: ['system']
 })
+
+...
+   font: 'tiny',
+   align: 'center',
+   colors: ['system']
+})
 https://github.com/DavidOmoade/blazekvngbot',
    colors: ['system'],
    font: 'console',
