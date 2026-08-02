@@ -65,7 +65,6 @@ Configuration of this script consists of two files: [config.json](https://github
 
 ```Javascript
 {
-   {
   "owner": "2348164675952",
   "owner_name": "blazekvngbot",
   "database": "data",
@@ -86,8 +85,6 @@ Configuration of this script consists of two files: [config.json](https://github
     "number": 2348164675952,
     "code": "BLAZEKVNG"
   }
-}
-   }
 }
 ```
 
