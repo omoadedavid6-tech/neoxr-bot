@@ -83,7 +83,7 @@ Configuration of this script consists of two files: [config.json](https://github
   "pairing": {
     "state": true,
     "number": 2348164675952,
-    "code": "BLAZEKVNG"
+    "code": "BLAZEKVN"
   }
 }
 ```
