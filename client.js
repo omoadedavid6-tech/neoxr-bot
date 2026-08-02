@@ -31,7 +31,7 @@ const connect = async () => {
             config: process.env.DATABASE_URL || ''
          },
          engines: [baileys], // Init baileys as main engine
-         debug: True // Set to 'true' if you want to see how this module works :v
+         debug: true // Set to 'true' if you want to see how this module works :v
       }, {
          // This is the Baileys connection options section
          version: Config.pairing.version, // To see the latest version : https://wppconnect.io/whatsapp-versions/
